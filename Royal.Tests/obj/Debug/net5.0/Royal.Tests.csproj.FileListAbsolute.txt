@@ -13,6 +13,7 @@ C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\Royal.Test
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\Royal.Tests.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\ref\Royal.Tests.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\Royal.Tests.pdb
+C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\AngleSharp.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
@@ -26,7 +27,9 @@ C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\NuGet.Fram
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\nunit.framework.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\WebDriver.Support.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\WebDriver.dll
+C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\WebDriverManager.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\Kuba\source\repos\SeleniumAndC#\Royal.Tests\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll

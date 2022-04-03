@@ -3,6 +3,9 @@ using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using Royale.Pages;
+using WebDriverManager;
+using WebDriverManager.DriverConfigs.Impl;
+
 
 namespace Royal.Tests
 {
@@ -13,7 +16,8 @@ namespace Royal.Tests
         [SetUp]
         public void BeforeEach()
         {
-            driver = new ChromeDriver(Path.GetFullPath(@"../../../../"+ "drivers"));
+            new DriverManager().SetUpDriver(new ChromeConfig());
+            var driver = new ChromeDriver();
             driver.Url="https://statsroyale.com";
         }
         [TearDown]

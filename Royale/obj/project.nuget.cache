@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhUlysH7jB52KV1qGzPSpGekEtSdMRsHznISso4blAipYOtQHVg4qXXtL2FUPK9zIk9myW5+zCHfpiV/bzi8yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kuba\\source\\repos\\SeleniumAndC#\\Royale\\Royale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuba\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\bin\Debug\net5.0\Framework.deps.json
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\bin\Debug\net5.0\Framework.dll
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\bin\Debug\net5.0\ref\Framework.dll
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\bin\Debug\net5.0\Framework.pdb
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\obj\Debug\net5.0\Framework.csproj.AssemblyReference.cache
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\obj\Debug\net5.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\obj\Debug\net5.0\Framework.AssemblyInfoInputs.cache
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\obj\Debug\net5.0\Framework.AssemblyInfo.cs
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\obj\Debug\net5.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\obj\Debug\net5.0\Framework.dll
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\obj\Debug\net5.0\ref\Framework.dll
+C:\Users\Kuba\source\repos\SeleniumAndC#\Framework\obj\Debug\net5.0\Framework.pdb
